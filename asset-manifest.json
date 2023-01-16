@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iphone-market/static/css/main.302c7878.css",
+    "main.js": "/iphone-market/static/js/main.66d5bf0b.js",
+    "index.html": "/iphone-market/index.html",
+    "main.302c7878.css.map": "/iphone-market/static/css/main.302c7878.css.map",
+    "main.66d5bf0b.js.map": "/iphone-market/static/js/main.66d5bf0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302c7878.css",
+    "static/js/main.66d5bf0b.js"
+  ]
+}
